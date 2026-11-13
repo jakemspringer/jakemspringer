@@ -18,16 +18,16 @@
   "oid": "39d24f11fbee742ce7845f309af1f1d86b573c6c"
  },
  "jakemspringer/jakemspringer": {
-  "add": 949,
-  "commits": 32,
-  "del": 361,
-  "oid": "d4c279da022a54ae845ca6a3717e03f7dcb9404d"
+  "add": 963,
+  "commits": 33,
+  "del": 375,
+  "oid": "7d91f206c542e124e7e41af0efc7dc5bf99c0abd"
  },
  "jakemspringer/polaris": {
-  "add": 2034424,
-  "commits": 24,
-  "del": 177,
-  "oid": "4943083c3a41ee9e5febf0dba2d2285dc4928ac9"
+  "add": 2035526,
+  "commits": 45,
+  "del": 324,
+  "oid": "c13b22750bd64b9edf84bfd4251721afd6609066"
  },
  "jakemspringer/valentine-click-page": {
   "add": 263,
@@ -39,7 +39,7 @@
   "add": 1055,
   "commits": 13,
   "del": 69,
-  "oid": "3771e38e442daf24f6a6597f00800cf51a9f731f"
+  "oid": "1db481a4de4dd62bd46eba65d10aeb3287093c11"
  },
  "jakemspringer/walkup-counter": {
   "add": 963,
