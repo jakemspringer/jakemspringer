@@ -24,16 +24,16 @@
   "oid": "cd4c35550424aec9c950508742a5d616e9eed731"
  },
  "jakemspringer/jakemspringer": {
-  "add": 1066,
-  "commits": 40,
-  "del": 472,
-  "oid": "d8befcd03944fa69f814e89c66f5de1f0ef395c4"
+  "add": 1076,
+  "commits": 41,
+  "del": 482,
+  "oid": "29b5a732d0819cb9629b3d6dfd18b2bf1f351190"
  },
  "jakemspringer/polaris": {
-  "add": 2037303,
-  "commits": 62,
+  "add": 2037344,
+  "commits": 64,
   "del": 661,
-  "oid": "3869c9a9cbeefb19081403a742fa2afd9f689517"
+  "oid": "46221ce1f357cd9e97093e3730a4ac3135ad45df"
  },
  "jakemspringer/valentine-click-page": {
   "add": 263,
