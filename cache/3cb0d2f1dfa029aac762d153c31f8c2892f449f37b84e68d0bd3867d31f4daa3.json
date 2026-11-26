@@ -24,16 +24,22 @@
   "oid": "cd4c35550424aec9c950508742a5d616e9eed731"
  },
  "jakemspringer/jakemspringer": {
-  "add": 1127,
-  "commits": 45,
-  "del": 533,
-  "oid": "5cfc3023d13d4bdf370dbe5ac3e72d0d3a375b0d"
+  "add": 1140,
+  "commits": 46,
+  "del": 546,
+  "oid": "bd71b1405f74440fa8736b1c502d7d6023e528ba"
  },
  "jakemspringer/polaris": {
   "add": 2037620,
   "commits": 69,
   "del": 829600,
   "oid": "6ff8ee40fa9a1744a9291a25c051d324bf96284e"
+ },
+ "jakemspringer/secret-santa": {
+  "add": 2539,
+  "commits": 5,
+  "del": 61,
+  "oid": "0ef3a0d0e94b807ecba5de02c8ea75da6417d746"
  },
  "jakemspringer/valentine-click-page": {
   "add": 263,
